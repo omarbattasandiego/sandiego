@@ -1,0 +1,235 @@
+PURPOSE OF EXPERIMENT:
+The purpose of this experiment is to determine the compressive strength and modulus of elasticity of concrete and examine its behavior and failure mode under compression. The concrete cured cylindrical samples prepared in Experiment 1 will be used. 
+
+MATERIALS AND EQUIPMENT USED:
+•	3 Test samples cylinders 
+•	Compression testing machine
+•	Upper and lower heads for cylinders
+•	Dial Gage
+•	Cylinder micrometer
+•	Compress meter
+Test samples cylinders (3 of them) 
+ Compression testing machine
+ Upper and lower heads for cylinders 
+ Dial gage 
+ Cylinder micrometer 
+ Cmpressometer 
+Test samples cylinders (3 of them) 
+ Compression testing machine
+ Upper and lower heads for cylinders 
+ Dial gage 
+ Cylinder micrometer 
+ Cmpressometer 
+Test samples cylinders (3 of them) 
+ Compression testing machine
+ Upper and lower heads for cylinders 
+ Dial gage 
+ Cylinder micrometer 
+ Cmpressometer 
+Test samples cylinders (3 of them) 
+ Compression testing machine
+ Upper and lower heads for cylinders 
+ Dial gage 
+ Cylinder micrometer 
+Test samples cylinders (3 of them) 
+ Compression testing machine
+ Upper and lower heads for cylinders 
+ Dial gage 
+ Cylinder micrometer 
+EXPERIMENTAL PROCEDURE:
+
+Data & Calculations:
+
+•	Table 1: Group A Data
+
+Sample
+Diameter (in.)
+Avg. Diameter (in.)
+Area (in^2)
+Max Load (lb.)
+Dial @ 8000 lb.
+Dial @ 20000 lb.
+1
+Top: 4.030
+Mid.: 3.905
+Bot.:3.921
+3.952
+12.27
+40500
+.0253
+.0280
+2
+Top: 3.937
+Mid.: 3.926
+Bot.:3.896
+3.920
+12.07
+43500
+.0499
+.0526
+
+•	Table 2: Group B Data
+
+Sample
+Diameter (in.)
+Avg. Diameter (in.)
+Area (in^2)
+Max Load (lb.)
+Dial @ 8000 lb.
+Dial @ 20000 lb.
+1
+Top: 4.003
+Mid.: 4.123
+Bot.:4.111
+4.079
+13.06
+50000
+.03525
+.03275
+2
+Top: 4.046
+Mid.: 3.893
+Bot.:3.952
+3.963
+12.32
+54500
+.01895
+.02235
+
+
+
+
+
+•	Table 3: Group A Calculated Data @ Gage Length 5.5”
+Sample
+∆ϵ
+∆σ (psi.)
+Compressive Strength (psi.)
+Compressive Strength avg. (psi.)
+E (psi.)
+E avg. (psi.)
+1
+2.45x10^-4
+978
+3301
+3450
+3.99x10^6
+4.02x10^6
+2
+2.45x10^-4
+994
+3604
+3450
+4.06x10^6
+4.02x10^6
+
+•	Table 4: Group B Calculated Data @ Gage Length 5.5”
+Sample
+∆ϵ
+∆σ (psi.)
+Compressive Strength (psi.)
+Compressive Strength avg. (psi.)
+E (psi.)
+E avg. (psi.)
+1
+227.2x10^-6
+918.8
+3.82x10^3
+4120
+4.04x10^6
+3.65x10^6
+2
+309.09x10^-6
+974.0
+4.42x10^3
+4120
+3.15x10^6
+3.65x10^6
+
+fcs = Pmax/Ai
+Ec = ∆σ/ ∆ε
+Ec = 57,000 (fcs) ½
+∆ε= (Strain Dial reading@20000-@8000/2)/gage length
+∆σ= (@20000-@8000)/Area
+
+Group A: Theoretical Values
+	E=3.35x10^6 psi
+	Fcs=3452 psi
+Group B: Theoretical Values
+	E=3.595x10^6 psi
+	Fcs=4126 psi
+
+
+Procedure:
+I.	Compression Modulus of Elasticity of Concrete: 
+ 
+a.	Measure the sample at different locations using the micrometer and take an average to determine the diameter. 
+b.	Fit the micrometer on the concrete cylinder and make sure it is centered on the sample.  
+c.	Position the upper head about ½ inch above the specimen. 
+d.	Load the specimen at a rate between 560 and 1410 Ib/s as specified by ASTM C39. 
+e.	Read the dial gage reading for P1, which should be about 5000 Ib. 
+f.	Allow the machine to maintain this constant load until another reading can be made.  
+g.	A second dial reading is made for P2 and should be about 40,000 Ib. 
+h.	Calculate the change in strain. 
+i.	Calculate the change in stress. 
+j.	Calculate the modulus of elasticity. 
+k.	Repeat all the steps above for the remaining concrete specimens.  
+ 
+II.	Compression Strength and Failure Mode of Concrete: 
+a.	Place the specimen on the bull’s eye of the concrete compression machine.  
+b.	Load the specimen at the standard loading rate until the concrete sample reaches failure. 
+c.	Record the failure load and draw the failure shape. 
+d.	Repeat the steps above in part b for the remaining specimens. 
+
+EXPERIMENTAL RESULTS:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary and Conclusions:
+
+	The lab was a success in analyzing and learning about the properties of concrete. It was extremely beneficial because we were able to see how our calculations and the difference is the mix ratios would lead to data that differs. From there, we were able to evaluate and distinguish between the different groups, or ratios, based on the graphs given. The fact that we mixed between conceptual and practical shows the broad spectrum of knowledge and experience attained during this lab.
+
+Sources of Error: 
+
+•	The measurement was late on being read due to the equipment being out dated.
+•	Human inaccuracies in measurements and procedures when preparing and conducting the labs.
+•	Cylinders were all shaped differently and left the top uneven making it difficult to prepare with consistency. 
